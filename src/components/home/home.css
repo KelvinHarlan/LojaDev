@@ -132,7 +132,7 @@
 
     .salers-ul li {
         flex: auto;
-        max-width: 200px;
+        max-width: 177px;
     }
     .textSales{
        font-size: 2rem;
@@ -151,5 +151,8 @@
     .modal-close-button{
         top: 30px;
         width: 20% !important;
+    }
+     .buy{
+        padding: 20px !important;
     }
   }
