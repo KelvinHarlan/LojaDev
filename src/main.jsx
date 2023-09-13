@@ -9,11 +9,11 @@ import Payment from './components/finalPayment/Payment.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "/",
     element: <App />,
     children: [
       {
-        path: "/home",
+        path: "/",
         element: <Home />
       },
       {
