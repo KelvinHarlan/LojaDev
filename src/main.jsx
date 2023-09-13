@@ -9,7 +9,7 @@ import Payment from './components/finalPayment/Payment.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/LojaDev",
+    path: "/",
     element: <App />,
     children: [
       {
