@@ -2,7 +2,7 @@ import './home.css';
 import Button from '../button/Button';
 import logo from '../../imagens/logo.png';
 import CardCategories from '../categories/CardCategories';
-import BestSalers from '../bestSalers/bestSalers';
+import BestSalers from '../bestSalers/BestSalers';
 import products from '../products/dataProducts';
 
 function Home() {
