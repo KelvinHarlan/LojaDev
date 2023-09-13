@@ -9,15 +9,15 @@ import Payment from './components/finalPayment/Payment.jsx';
 
 const router = createBrowserRouter([
   {
-    path: "/LojaDev",
+    path: "/home",
     element: <App />,
     children: [
       {
-        path: "/",
+        path: "/home",
         element: <Home />
       },
       {
-        path: "contacts",
+        path: "LojaDev/contacts",
         element: <Contacts />
       },
       {
